@@ -9,6 +9,8 @@ Deploys on a remote server with Ubuntux64:latest. The Dockerfile will install de
 $ wget -qO- https://get.docker.com/ | sh
 ```
 
+#### Docker
+
 and run the following (change username and password to your own choice):
 
 ```bash

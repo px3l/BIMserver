@@ -1,5 +1,5 @@
 ############################################################
-# Dockerfile to deploy BIMserver 1.5.63 on Tomcat 8.0.39
+# Dockerfile to deploy BIMserver on Tomcat
 # Based on Ubuntu x64
 ############################################################
 
