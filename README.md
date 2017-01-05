@@ -1,4 +1,5 @@
 # BIMserver
+
 Deploy BIMserver in a Docker container
 
 #### BIMserver 1.5.63
@@ -19,7 +20,7 @@ $ docker run -d \
 	-e TOMCAT_PASSWORD=xxx \
 	-p 8080:8080 \
 	--restart=always \
-	px3l/BIMserver
+	px3l/bimserver
 ```
 
 This will pull the 'latest' tagged image. For other tags please see Tags on Dockerhub. To use a specific tag, put `:TAGNAME` after the docker image at the end of the run command.
